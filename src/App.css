@@ -1,0 +1,15 @@
+.courseImg{
+  height: 200px;
+  width: 200px;
+}
+
+
+.dataShow{
+  width: 60%;
+  background-color: red;
+  float: left;
+}
+.cart{
+  float: left;
+  margin-left: 50px;
+}
